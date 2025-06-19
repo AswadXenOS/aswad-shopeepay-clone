@@ -1,11 +1,4 @@
 #!/data/data/com.termux/files/usr/bin/bash
-
-===================================================================
-
-ShopeePay Clone – FULL AUTO SETUP SCRIPT (Original Setup Tanpa 2FA)
-
-===================================================================
-
 set -e
 
 echo "[1/6] ✔ Update & Pasang Dependency" pkg update -y && pkg install -y nodejs git sqlite curl
